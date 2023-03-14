@@ -1,0 +1,22 @@
+<calculator>
+   <operation name="add">
+      <parameter name="num1">500</parameter>
+      <parameter name="num2">3</parameter>
+      <result>503</result>
+   </operation>
+   <operation name="subtract">
+      <parameter name="num1">10</parameter>
+      <parameter name="num2">4</parameter>
+      <result>6</result>
+   </operation>
+   <operation name="multiply">
+      <parameter name="num1">2</parameter>
+      <parameter name="num2">6</parameter>
+      <result>12</result>
+   </operation>
+   <operation name="Divide">
+      <parameter name="num1">18</parameter>
+      <parameter name="num2">6</parameter>
+      <result>3</result>
+   </operation>
+</calculator>
